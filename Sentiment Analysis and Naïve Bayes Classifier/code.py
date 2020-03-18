@@ -41,7 +41,7 @@ This Code contains 3 parts
 
 2- TF-IDF  using CountVectorizer
 
-3- RAW Counts using DictVectorizer
+3- RAW Counts using CountVectorizer
 
 """
 
